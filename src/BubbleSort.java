@@ -1,6 +1,6 @@
 public class BubbleSort {
-    public int[] dataInt;
-    public String[] dataString;
+    private int[] dataInt;
+    private String[] dataString;
 
     public BubbleSort(int[] dataInt, String[] dataString) {
         this.dataInt = dataInt;
